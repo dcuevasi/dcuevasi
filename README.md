@@ -61,7 +61,8 @@ Participación en proyectos ERP industriales, gestión de procesos e inventarios
 
 ## 🎯 Formación
 
-🎓 Técnico en Programación y Análisis de Sistemas — *Instituto Profesional San Sebastián*
+🎓 Técnico en Programación y Análisis de Sistemas — *Instituto Profesional San Sebastián*  
+
 🎓 Licenciatura en Traducción Inglés–Español — *Universidad de La Serena*
 
 ---
