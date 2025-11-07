@@ -51,8 +51,8 @@ Integración con **PyAutoGUI** y precisión optimizada (<100 ms).
 
 ## 💼 Experiencia
 
-**Desarrollador Full Stack – SolucionalTech (Remoto)**
-🗓️ *Mayo 2024 – Abril 2025*
+**Desarrollador Full Stack – SolucionalTech (Remoto)**  
+🗓️ *Mayo 2024 – Abril 2025*  
 Desarrollo de aplicaciones web SaaS con **React/Angular** y **Django/Express.js**.
 Integración con AWS (S3, DynamoDB), optimización de queries y diseño UX/UI adaptable a las necesidades del cliente.
 Participación en proyectos ERP industriales, gestión de procesos e inventarios.
