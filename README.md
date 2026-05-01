@@ -1,4 +1,4 @@
-# Hola 👋 soy **David Cuevas**
+# **David Cuevas**
 
 💻 **Desarrollador Full Stack** con experiencia en front-end y back-end, diseño UX/UI y gestión de bases de datos.
 Enfocado en crear **soluciones escalables y funcionales**, aplicando buenas prácticas, metodologías ágiles y una mirada centrada en el usuario.
